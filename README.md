@@ -18,3 +18,6 @@ yarn dev
 
 ## Running locally (Option 2)
 
+## Dependancies
+
+1. https://github.com/hypeserver/react-date-range (Not installed yet)
