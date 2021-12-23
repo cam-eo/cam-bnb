@@ -4,9 +4,9 @@ Stack
 
 Headless NextJS
 
-## Running locally
+## Running locally (Option 1)
 
-1. un the development server:
+1. Run the development server:
 
 ```bash
 npm run dev
@@ -14,5 +14,7 @@ npm run dev
 yarn dev
 ```
 
-2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Open [http://localhost:3000](http://localhost:3000) to view in the browser.
+
+## Running locally (Option 2)
 
